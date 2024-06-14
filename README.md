@@ -8,7 +8,6 @@ Feature selection involves identifying the most relevant variables that contribu
 
 3. Model Selection and Training
 Various machine learning models can be employed for breast cancer prediction, including:
-
 Logistic Regression: Useful for binary classification tasks.
 Support Vector Machines (SVM): Effective in high-dimensional spaces.
 Decision Trees and Random Forests: Provide interpretability and handle non-linear relationships well.
